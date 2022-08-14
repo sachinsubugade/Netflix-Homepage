@@ -25,6 +25,7 @@ etc.
 
 ## Hosted Project Link  
 https://netflix-homepage-sachins.netlify.app/
+
 ## 🚀 About Me
 I'm a Aspiring Full Stack Web Developer.
 
