@@ -13,8 +13,7 @@ Use of
 - <img>
 - <video>
 - aligning elements
-- responsiveness
-  etc.
+- responsiveness etc.
 
 ## Tech Stack
 
